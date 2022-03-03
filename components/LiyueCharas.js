@@ -1,0 +1,40 @@
+import * as React from 'react';
+import { StyleSheet, FlatList, SafeAreaView } from 'react-native';
+import data from '../characters.json'
+import Touch from './Touch';
+
+
+export default function LiyueCharas({ navigation }) {
+  return (
+    <SafeAreaView style={styles.container}>
+      <FlatList
+        style={styles.list}
+        data={data.filter(chara => chara.city.includes("Liyue"))}
+        renderItem={({ item, index }) => {
+
+          return (
+            <Touch 
+              title={item.name}
+              img={item.img}
+              showDetails={() => navigation.navigate("Details", { item })}
+            />
+          )
+        }}
+        keyExtractor={(item) => item.name}
+      />
+    </SafeAreaView>
+  );
+}
+
+const styles = StyleSheet.create({
+  container: { 
+    flex: 1, 
+    justifyContent: 'center', 
+    alignItems: 'center' 
+  },
+  list: {
+    flex: 1,
+    width: "100%"
+  }
+
+})
