@@ -1,7 +1,6 @@
 import React from "react";
-import { Text, View, Button, StyleSheet, Image, ScrollView, SafeAreaView } from "react-native";
+import { Text, View, StyleSheet, Image, ScrollView, SafeAreaView } from "react-native";
 import { TouchableHighlight } from "react-native-gesture-handler";
-import { borderColor, color } from "react-native/Libraries/Components/View/ReactNativeStyleAttributes";
 import { useDispatch } from "react-redux";
 import { addFav } from "../actions/Fav";
 
