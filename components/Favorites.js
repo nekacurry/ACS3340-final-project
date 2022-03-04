@@ -1,24 +1,38 @@
 import * as React from 'react';
-import { Text, View, StyleSheet } from 'react-native';
-import { Ionicons } from 'react-native-vector-icons'
+import { StyleSheet, SafeAreaView, Text } from 'react-native';
+import { FlatList } from 'react-native-gesture-handler';
+import { useSelector } from 'react-redux';
+import Touch from './Touch';
 
 
-function Favorites() {
+export default function Favorites({ navigation }) {
+  const favList = useSelector(state => state.favList)
+
   return (
-    <View style={styles.container}>
-      <Ionicons name="ios-star-outline" size={32} />
-      <Text>You have no Faves yet!</Text>
-    </View>
+    <SafeAreaView style={styles.container}>
+      {/* <Text>My Faves</Text> */}
+      <FlatList
+        data={favList}
+        renderItem={({ item, index }) => {
+          return (
+            <Touch 
+              title={item.name}
+              img={item.img}
+              showDetails={() => navigation.navigate("Details", {item})}
+            />
+          )
+        }}
+        keyExtractor={(item) => item.name}
+      />
+    </SafeAreaView>
   );
 }
-
-export default Favorites
 
 const styles = StyleSheet.create({
   container: { 
     flex: 1, 
-    justifyContent: 'center', 
-    alignItems: 'center' 
+    alignItems: 'center',
+    width: "100%" 
   },
 
 })

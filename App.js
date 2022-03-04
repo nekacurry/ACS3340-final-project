@@ -8,15 +8,15 @@ import thunk from 'redux-thunk';
 import { StatusBar } from 'expo-status-bar';
 
 
-import rootReducer from './reducers';
+import cReducer from './reducers';
 
 
 import MondstadtStack from './stacks/MondstadtStack'
 import LiyueStack from './stacks/LiyueStack';
-import Favorites from './components/Favorites';
+import FavStack from './stacks/FavStack';
 
 const Tab = createBottomTabNavigator();
-const store = createStore(rootReducer, applyMiddleware(thunk))
+const store = createStore(cReducer, applyMiddleware(thunk))
 
 export default function App() {
   return (
@@ -48,7 +48,7 @@ export default function App() {
         >
           <Tab.Screen name="Mondstadt" component={MondstadtStack} />
           <Tab.Screen name="Liyue" component={LiyueStack} />
-          <Tab.Screen name="Faves" component={Favorites} />
+          <Tab.Screen name="Faves" component={FavStack} />
         </Tab.Navigator>
       </NavigationContainer>
     </Provider>

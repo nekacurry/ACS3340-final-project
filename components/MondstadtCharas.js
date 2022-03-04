@@ -5,10 +5,6 @@ import Touch from './Touch';
 
 
 export default function MondstadtCharas({ navigation }) {
-  // let rarity = ''
-  // for (let i = 0; i < data.rarity.value; i += 1) {
-  //   rarity += '⭐️'
-  // }
   return (
     <SafeAreaView style={styles.container}>
       <FlatList

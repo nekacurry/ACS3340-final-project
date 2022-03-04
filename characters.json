@@ -5,7 +5,8 @@
     "element": "Geo",
     "weapon": "Sword",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/albedo.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/albedo.png",
+    "description": "Albedo — an alchemist based in Mondstadt, in the service of the Knights of Favonius.\n\"Genius,\" \"Kreideprinz,\" or \"Captain of the Investigation Team\"... Such titles and honors are of no consequence to him when there is so much more research to conduct.\nThe pursuit of fortune and connections cannot hold a candle to his heart's desire — acquiring the limitless, obscure knowledge left behind by previous generations of scholars."
   },
   {
     "name" : "Amber",
@@ -13,7 +14,8 @@
     "element": "Pyro",
     "weapon": "Bow",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/amber.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/amber.png",
+    "description": "A perky, straightforward girl, who is also the only Outrider of the Knights of Favonius. Her amazing mastery of the glider has made her a three-time winner of the Gliding Championship in Mondstadt. As a rising star within the Knights of Favonius, Amber is always ready for any challenging tasks."
   },
   {
     "name" : "Barbara",
@@ -21,7 +23,8 @@
     "element": "Hydro",
     "weapon": "Catalyst",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/barbara.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/barbara.png",
+    "description": "The Deaconess of the Favonius Church and a shining starlet adored by all. Although the concept of a starlet is rather novel in a city of bards, the people of Mondstadt love Barbara nonetheless. \"I owe everything to the city's spirit of freedom\" — Barbara, regarding her popularity."
   },
   {
     "name" : "Beidou",
@@ -29,7 +32,8 @@
     "element": "Electro",
     "weapon": "Claymore",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/beidou.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/beidou.png",
+    "description": "Captain of the Crux, with quite the reputation in Liyue.\nThere are those who say she can split mountains and part the sea. Others say she draws lightning through her sword. Some say that even the mightiest of sea beasts are no match for her.\nFor those not from Liyue, it may sound like a hearty joke, but those that have sailed with her will say—\n\"No matter what sea beasts there may be, Beidou will be sure to split them all in two.\""
   },
   {
     "name" : "Bennett",
@@ -37,7 +41,8 @@
     "element": "Pyro",
     "weapon": "Sword",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/bennett.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/bennett.png",
+    "description": "One of the few young adventurers of the Mondstadt Adventurers' Guild, he is always plagued with inexplicable bad luck.\nHe is the only active member of his own adventure group, known as \"Benny's Adventure Team,\" after all the other members decided to \"take leave\" following a series of unfortunate incidents. As a result, the team is currently on the verge of being dissolved.\nBeing unable to break the poor boy's heart, Katheryne of the Adventurers' Guild has kept \"Benny's Adventure Team\" on the books, whilst also hiding from him the fact that all the other members have long since officially left the team."
   },
   {
     "name" : "Chongyun",
@@ -45,7 +50,8 @@
     "element": "Cryo",
     "weapon": "Claymore",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/chongyun.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/chongyun.png",
+    "description": "An exorcist who roams the land with Liyue as his base of operations, evil spirits fleeing wherever he goes. As the heir to a clan of exorcists, he has always possessed abilities superior to most. However, these abilities are not the result of training, but of an inborn trait — a pure yang spirit."
   },
   {
     "name" : "Diluc",
@@ -53,7 +59,8 @@
     "element": "Pyro",
     "weapon": "Claymore",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/diluc.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/diluc.png",
+    "description": ""
   },
   {
     "name" : "Diona",
@@ -61,7 +68,8 @@
     "element": "Cryo",
     "weapon": "Bow",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/diona.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/diona.png",
+    "description": ""
   },
   {
     "name" : "Eula",
@@ -69,7 +77,8 @@
     "element": "Cryo",
     "weapon": "Claymore",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/eula.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/eula.png",
+    "description": ""
   },
   {
     "name" : "Fischl",
@@ -77,7 +86,8 @@
     "element": "Electro",
     "weapon": "Bow",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/fischl.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/fischl.png",
+    "description": ""
   },
   {
     "name" : "Ganyu",
@@ -85,7 +95,8 @@
     "element": "Cryo",
     "weapon": "Bow",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/ganyu.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/ganyu.png",
+    "description": ""
   },
   {
     "name" : "Hu Tao",
@@ -93,7 +104,8 @@
     "element": "Pyro",
     "weapon": "Polearm",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/hutao.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/hutao.png",
+    "description": ""
   },
   {
     "name" : "Jean",
@@ -101,7 +113,8 @@
     "element": "Anemo",
     "weapon": "Sword",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/jean.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/jean.png",
+    "description": ""
   },
   {
     "name" : "Kaeya",
@@ -109,7 +122,8 @@
     "element": "Cryo",
     "weapon": "Sword",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/kaeya.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/kaeya.png",
+    "description": ""
   },
   {
     "name" : "Keqing",
@@ -117,7 +131,8 @@
     "element": "Electro",
     "weapon": "Sword",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/keqing.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/keqing.png",
+    "description": ""
   },
   {
     "name" : "Klee",
@@ -125,7 +140,8 @@
     "element": "Pyro",
     "weapon": "Catalyst",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/klee.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/klee.png",
+    "description": ""
   },
   {
     "name" : "Lisa",
@@ -133,7 +149,8 @@
     "element": "Electro",
     "weapon": "Catalyst",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/lisa.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/lisa.png",
+    "description": ""
   },
   {
     "name" : "Mona",
@@ -141,7 +158,8 @@
     "element": "Hydro",
     "weapon": "Catalyst",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/mona.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/mona.png",
+    "description": ""
   },
   {
     "name" : "Ningguang",
@@ -149,7 +167,8 @@
     "element": "Geo",
     "weapon": "Catalyst",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/ningguang.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/ningguang.png",
+    "description": ""
   },
   {
     "name" : "Noelle",
@@ -157,7 +176,8 @@
     "element": "Geo",
     "weapon": "Claymore",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/noelle.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/noelle.png",
+    "description": ""
   },
   {
     "name" : "Qiqi",
@@ -165,7 +185,8 @@
     "element": "Cryo",
     "weapon": "Sword",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/qiqi.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/qiqi.png",
+    "description": ""
   },
   {
     "name" : "Razor",
@@ -173,7 +194,8 @@
     "element": "Electro",
     "weapon": "Claymore",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/razor.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/razor.png",
+    "description": ""
   },
   {
     "name" : "Rosaria",
@@ -181,7 +203,8 @@
     "element": "Cryo",
     "weapon": "Polearm",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/rosaria.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/rosaria.png",
+    "description": ""
   },
   {
     "name" : "Shenhe",
@@ -189,7 +212,8 @@
     "element": "Cryo",
     "weapon": "Polearm",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/shenhe.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/shenhe.png",
+    "description": ""
   },
   {
     "name" : "Sucrose",
@@ -197,7 +221,8 @@
     "element": "Anemo",
     "weapon": "Catalyst",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/sucrose.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/sucrose.png",
+    "description": ""
   },
   {
     "name" : "Traveler",
@@ -205,7 +230,8 @@
     "element": "Geo",
     "weapon": "Sword",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/traveler_girl_geo.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/traveler_girl_geo.png",
+    "description": ""
   },
   {
     "name" : "Traveler",
@@ -213,7 +239,8 @@
     "element": "Anemo",
     "weapon": "Sword",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/traveler_girl_anemo.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/traveler_girl_anemo.png",
+    "description": ""
   },
   {
     "name" : "Venti",
@@ -221,7 +248,8 @@
     "element": "Anemo",
     "weapon": "Bow",
     "city": "Mondstadt",
-    "img": "https://genshin.honeyhunterworld.com/img/char/venti.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/venti.png",
+    "description": ""
   },
   {
     "name" : "Xiangling",
@@ -229,7 +257,8 @@
     "element": "Pyro",
     "weapon": "Polearm",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/xiangling.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/xiangling.png",
+    "description": ""
   },
   {
     "name" : "Xiao",
@@ -237,7 +266,8 @@
     "element": "Anemo",
     "weapon": "Polearm",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/xiao.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/xiao.png",
+    "description": ""
   },
   {
     "name" : "Xingqiu",
@@ -245,7 +275,8 @@
     "element": "Hydro",
     "weapon": "Sword",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/xingqiu.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/xingqiu.png",
+    "description": ""
   },
   {
     "name" : "Xinyan",
@@ -253,7 +284,8 @@
     "element": "Pyro",
     "weapon": "Claymore",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/xinyan.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/xinyan.png",
+    "description": ""
   },
   {
     "name" : "Yanfei",
@@ -261,7 +293,8 @@
     "element": "Pyro",
     "weapon": "Catalyst",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/feiyan.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/feiyan.png",
+    "description": ""
   },
   {
     "name" : "Yun Jin",
@@ -269,7 +302,8 @@
     "element": "Geo",
     "weapon": "Polearm",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/yunjin.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/yunjin.png",
+    "description": ""
   },
   {
     "name" : "Zhongli",
@@ -277,6 +311,7 @@
     "element": "Geo",
     "weapon": "Polearm",
     "city": "Liyue",
-    "img": "https://genshin.honeyhunterworld.com/img/char/zhongli.png"
+    "img": "https://genshin.honeyhunterworld.com/img/char/zhongli.png",
+    "description": ""
   }
 ]
